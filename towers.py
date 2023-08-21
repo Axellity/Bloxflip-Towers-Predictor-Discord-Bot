@@ -47,4 +47,4 @@ async def towers(interaction: discord.Interaction, round_id:str, tile_amount:int
         await interaction.response.send_message(embed=em)
 
 
-client.run('bot token')
+client.run('MTE0MzE3NjQyOTgzNjcwNTgzMw.GoIkiR.n-wukShNifBazsAIClZco3penpqhqI76nTDNmE')
